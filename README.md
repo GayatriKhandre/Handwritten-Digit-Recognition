@@ -1,4 +1,6 @@
 # Handwritten Digit Recognition using MNIST Dataset
+**Made by Gayatri Pradeep Khandre**  
+
 
 ## Overview
 This project focuses on handwritten digit recognition using the **MNIST dataset**. The MNIST dataset consists of **70,000 small images** of handwritten digits, labeled from **0 to 9**. The goal is to classify these images using a **logistic regression model**.
